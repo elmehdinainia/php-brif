@@ -7,7 +7,7 @@
                         <h3 class=" fw-bolder text-dark  ps-2   ">E-classe</h3>
                     </a>
                     <div class="d-flex flex-column align-items-center ">
-                        <img src="image/4K-Ultra-HD-2160p-Wallpapers-Pixelz.jpg" alt="hugenerd" width="70" height="70"
+                        <img src="./image/IMG_20191128_105704.jpg" alt="hugenerd" width="70" height="70"
                             class="rounded-circle  mt-1">
                         <h4 class="text-dark mt-3 h6"> <b> Admin name </b></h4>
                         <p class="text-info">Admin</p>

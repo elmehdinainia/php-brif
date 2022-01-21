@@ -11,7 +11,7 @@
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
 
        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
-       <link rel="stylesheet" href="style.css">
+       <!-- <link rel="stylesheet" href="style.css"> -->
        <title>home</title>
    </head>
 
@@ -76,7 +76,7 @@
                         </li>
                     </ul>
                 </div> -->
-               <?php include 'sidebar.php' ?>
+               <?php include 'sidebar.php'; ?>
            </div>
 
            <!-- side bar -->
@@ -98,7 +98,7 @@
                            <i class="fal fa-bell ms-2 text-muted"></i>
                        </form>
                    </div> -->
-                   <?php include 'navbar.php' ?>
+                   <?php include 'navbar.php'; ?>
                </nav>
                <!-- <div class="container"> -->
                <div class="row">

@@ -72,7 +72,7 @@
                         </li>
                     </ul>
                 </div> -->
-            <?php include 'sidebar.php' ?>
+            <?php include 'sidebar.php';?>
         </div>
         <!-- end side bar -->
 
@@ -92,7 +92,7 @@
                             <i class="fal fa-bell ms-2 text-muted"></i> 
                         </form>
                     </div> -->
-                <?php include 'navbar.php' ?>
+                <?php include 'navbar.php'; ?>
             </nav>
             <!-- end nav bar -->
 
