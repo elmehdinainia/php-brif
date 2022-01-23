@@ -120,7 +120,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr class="bg-white align-middle">
+                        <!-- <tr class="bg-white align-middle">
                             <td><img src="image/student.jpg" alt="" height="50" width="50"></td>
                             <td>elmehdinainia</td>
                             <td>mehdinainiaa4@email.com</td>
@@ -191,7 +191,8 @@
                                 <i class="far fa-pen"></i>
                                 <i class="far fa-trash"></i>
                             </td>
-                        </tr>
+                        </tr> -->
+                        <?php include 'tableau.php'?>
                     </tbody>
 
                 </table>
