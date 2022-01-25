@@ -32,7 +32,7 @@
                                     class="ms-1 d-none d-sm-inline">Students</span></a>
                         </li>
                         <li class=" mb-sm-2">
-                            <a href="Payment.php" data-bs-toggle="collapse"
+                            <a href="payment.php" data-bs-toggle="collapse"
                                 class="nav-link    align-middle text-dark ">
                                 <i class="far fa-usd-square "></i> <span
                                     class="ms-1 d-none d-sm-inline">Payment</span></a>

@@ -120,78 +120,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <!-- <tr class="bg-white align-middle">
-                            <td><img src="image/student.jpg" alt="" height="50" width="50"></td>
-                            <td>elmehdinainia</td>
-                            <td>mehdinainiaa4@email.com</td>
-                            <td>0777787780</td>
-                            <td>1234567305477760</td>
-                            <td>08-Dec,2021</td>
-                            <td class="d-md-flex gap-3 mt-3">
-                                <i class="far fa-pen"></i>
-                                <i class="far fa-trash"></i>
-                            </td>
-                        </tr>
-                        <tr class="bg-white align-middle">
-                            <td><img src="image/student.jpg" alt="" height="50" width="50"></td>
-                            <td>elmehdinainiaa</td>
-                            <td>mehdinainiaa4@email.com</td>
-                            <td>0777787780</td>
-                            <td>1234567305477760</td>
-                            <td>08-Dec,2021</td>
-                            <td class="d-md-flex gap-3 mt-3">
-                                <i class="far fa-pen"></i>
-                                <i class="far fa-trash"></i>
-                            </td>
-                        </tr>
-                        <tr class="bg-white align-middle">
-                            <td><img src="image/student.jpg" alt="" height="50" width="50"></td>
-                            <td>el mehdinainia</td>
-                            <td>mehdinianiaa4@email.com</td>
-                            <td>0777787780</td>
-                            <td>1234567305477760</td>
-                            <td>08-Dec,2021</td>
-                            <td class="d-md-flex gap-3 mt-3">
-                                <i class="far fa-pen"></i>
-                                <i class="far fa-trash"></i>
-                            </td>
-                        </tr>
-                        <tr class="bg-white align-middle">
-                            <td><img src="image/student.jpg" alt="" height="50" width="50"></td>
-                            <td>el mehdinainia</td>
-                            <td>mehdinainiaa4@email.com</td>
-                            <td>0777787780</td>
-                            <td>1234567305477760</td>
-                            <td>08-Dec,2021</td>
-                            <td class="d-md-flex gap-3 mt-3">
-                                <i class="far fa-pen"></i>
-                                <i class="far fa-trash"></i>
-                            </td>
-                        </tr>
-                        <tr class="bg-white align-middle">
-                            <td><img src="image/student.jpg" alt="" height="50" width="50"></td>
-                            <td>elmehdinainia</td>
-                            <td>mehdinainiaa4@email.com</td>
-                            <td>0777787780</td>
-                            <td>1234567305477760</td>
-                            <td>08-Dec,2021</td>
-                            <td class="d-md-flex gap-3 mt-3">
-                                <i class="far fa-pen"></i>
-                                <i class="far fa-trash"></i>
-                            </td>
-                        </tr>
-                        <tr class="bg-white align-middle">
-                            <td><img src="image/student.jpg" alt="" height="50" width="50"></td>
-                            <td>elmehdinainia</td>
-                            <td>mehdinainiaa4@email.com</td>
-                            <td>0777787780</td>
-                            <td>1234567305477760</td>
-                            <td>08-Dec,2021</td>
-                            <td class="d-md-flex gap-3 mt-3">
-                                <i class="far fa-pen"></i>
-                                <i class="far fa-trash"></i>
-                            </td>
-                        </tr> -->
+                    
                         <?php include 'tableau.php'?>
                     </tbody>
 

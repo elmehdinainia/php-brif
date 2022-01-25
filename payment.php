@@ -121,7 +121,7 @@
               </tr>
             </thead>
             <tbody>
-              <tr class=" bg-white">
+              <!-- <tr class=" bg-white">
                 <th scope="row" >mehdi</th>
                 <td>first</td>
                 <td>0288765</td>
@@ -156,7 +156,8 @@
                             <td>DHS 300,000</td>
                             <td>05-Jan, 2022</td>
                             <td><i class="fal fa-eye text-info"></i></td>
-                            </tr>
+                            </tr> -->
+                            <?php include 'tab-payement.php'?>
               
             </tbody>
           </table>
